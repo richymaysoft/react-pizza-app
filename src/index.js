@@ -72,7 +72,7 @@ function Header(){
    
   };
   return (<div  className='header'>
-    <h1 style={style}>Welcome to Pizza Restaurants</h1>;
+    <h1 style={style}>Welcome to Pizza Application</h1>;
     </div>);
 }
 
